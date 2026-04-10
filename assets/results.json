@@ -1,0 +1,107 @@
+{
+  "meta": { "version": "1.0" },
+  "groups": {
+    "A": ["稳定发疯型", "电子木鱼型", "快乐摆烂型", "表面正常型"],
+    "B": ["精神出走型", "嘴硬心软型", "极致内耗型", "人间清醒型"],
+    "C": ["佛系躺平型", "假装积极型", "冷漠防御型", "敏感细腻型"],
+    "D": ["自由散漫型", "默默努力型", "快乐小狗型", "疲惫生存型"]
+  },
+  "types": {
+    "稳定发疯型": {
+      "title": "稳定发疯型",
+      "desc": "表面体面心里翻涌，情绪在自愈与崩溃间循环，懂事也很累，但仍把笑当盔甲。",
+      "palette": ["#FFD1DC", "#B7C4FF", "#302D4C"],
+      "catStyle": {"pose": "stand", "mood": "chaotic", "decor": "spark"}
+    },
+    "电子木鱼型": {
+      "title": "电子木鱼型",
+      "desc": "心如止水随缘而行，不卷不争也不急不躁，主打一个宁静致远。",
+      "palette": ["#C7F0DB", "#8FD0C6", "#1D4F4A"],
+      "catStyle": {"pose": "sit", "mood": "zen", "decor": "wave"}
+    },
+    "快乐摆烂型": {
+      "title": "快乐摆烂型",
+      "desc": "清醒摆烂不自责，能过就行更重要，情绪友好，舒适优先。",
+      "palette": ["#FFE7A1", "#FFD4A3", "#5B3C1D"],
+      "catStyle": {"pose": "lie", "mood": "chill", "decor": "smile"}
+    },
+    "表面正常型": {
+      "title": "表面正常型",
+      "desc": "白天积极体面，夜里偷偷emo；人前开朗，人后硬撑，伪装得很专业。",
+      "palette": ["#CFE8FF", "#D9D7F1", "#2B3A67"],
+      "catStyle": {"pose": "stand", "mood": "mask", "decor": "stripe"}
+    },
+    "精神出走型": {
+      "title": "精神出走型",
+      "desc": "身体在上班，灵魂在旅行；常常走神放空，心早已订了返程票。",
+      "palette": ["#D4F1F4", "#BFE9FF", "#1C3B5A"],
+      "catStyle": {"pose": "float", "mood": "drift", "decor": "cloud"}
+    },
+    "嘴硬心软型": {
+      "title": "嘴硬心软型",
+      "desc": "外表强硬内心柔软，刀子嘴豆腐心，擅长默默关照与原谅。",
+      "palette": ["#FFD6C9", "#FFB3AE", "#5C2A2A"],
+      "catStyle": {"pose": "guard", "mood": "tender", "decor": "heart"}
+    },
+    "极致内耗型": {
+      "title": "极致内耗型",
+      "desc": "总与自己较劲，小事演成大戏；请松一松，别让完美卡住呼吸。",
+      "palette": ["#E5D9F2", "#C1B8E0", "#3A2E5C"],
+      "catStyle": {"pose": "curl", "mood": "loop", "decor": "spiral"}
+    },
+    "人间清醒型": {
+      "title": "人间清醒型",
+      "desc": "看得通透活得独立，不讨好不纠缠，情绪稳定且边界清晰。",
+      "palette": ["#CDE7BE", "#9DD49D", "#254B2A"],
+      "catStyle": {"pose": "stand", "mood": "calm", "decor": "frame"}
+    },
+    "佛系躺平型": {
+      "title": "佛系躺平型",
+      "desc": "能躺不坐能坐不站，不争不抢只求自在，内卷与你无关。",
+      "palette": ["#F6F1D3", "#EAD7A1", "#5C4A1D"],
+      "catStyle": {"pose": "lie", "mood": "zen", "decor": "leaf"}
+    },
+    "假装积极型": {
+      "title": "假装积极型",
+      "desc": "表面打鸡血，内心仍迷茫；习惯坚强，也在偷偷修复自己。",
+      "palette": ["#FFE0B2", "#FFC48C", "#4A2F0B"],
+      "catStyle": {"pose": "run", "mood": "try", "decor": "dash"}
+    },
+    "冷漠防御型": {
+      "title": "冷漠防御型",
+      "desc": "外冷内柔易受伤，用疏离做壳并非常态，只是谨慎自保。",
+      "palette": ["#DDE6ED", "#B0C4DE", "#2E3A59"],
+      "catStyle": {"pose": "sit", "mood": "guard", "decor": "shield"}
+    },
+    "敏感细腻型": {
+      "title": "敏感细腻型",
+      "desc": "共情力强感知细微，也易胡思乱想；你很珍贵，别总委屈。",
+      "palette": ["#FAD9E6", "#F6B6C8", "#5A2A3A"],
+      "catStyle": {"pose": "curl", "mood": "soft", "decor": "drop"}
+    },
+    "自由散漫型": {
+      "title": "自由散漫型",
+      "desc": "不爱被安排，热爱随性；把生活过成自选题，开心最要紧。",
+      "palette": ["#FFF1B6", "#C2F0F2", "#2E4052"],
+      "catStyle": {"pose": "jump", "mood": "free", "decor": "star"}
+    },
+    "默默努力型": {
+      "title": "默默努力型",
+      "desc": "低调踏实不声张，悄悄蓄力慢慢变强；稳定是你的底色。",
+      "palette": ["#E6F3FF", "#B8E0F2", "#1F3A5F"],
+      "catStyle": {"pose": "walk", "mood": "steady", "decor": "grid"}
+    },
+    "快乐小狗型": {
+      "title": "快乐小狗型",
+      "desc": "元气十足情绪来去快，简单纯粹自带阳光，开心就要汪一声。",
+      "palette": ["#FFF2A8", "#FFD27F", "#5B3A00"],
+      "catStyle": {"pose": "wag", "mood": "joy", "decor": "sun"}
+    },
+    "疲惫生存型": {
+      "title": "疲惫生存型",
+      "desc": "努力维持正常但身心都累；请允许自己休息一下，慢下来没关系。",
+      "palette": ["#E2E2F9", "#BEBEE5", "#3A3A68"],
+      "catStyle": {"pose": "sit", "mood": "tired", "decor": "zzz"}
+    }
+  }
+}
